@@ -1,0 +1,1427 @@
+﻿Log file open, 07/10/19 11:43:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MazeMadness
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.285634
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.10-15.43.23:650][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.10-15.43.23:650][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.10-15.43.23:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.10-15.43.23:650][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.10-15.43.23:650][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.07.10-15.43.23:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.10-15.43.23:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.10-15.43.23:651][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.10-15.43.23:652][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.10-15.43.23:652][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.10-15.43.23:652][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.10-15.43.23:652][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.10-15.43.23:652][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.10-15.43.23:652][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.10-15.43.23:668][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.10-15.43.23:668][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.10-15.43.23:669][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.10-15.43.23:670][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.10-15.43.23:671][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.10-15.43.23:679][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.10-15.43.23:679][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.10-15.43.23:759][  0]LogHAL: Display: Platform has ~ 16 GB [17084133376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.10-15.43.23:760][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.10-15.43.23:760][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.10-15.43.23:785][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:785][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.10-15.43.23:786][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.10-15.43.23:787][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.10-15.43.23:788][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.10-15.43.23:789][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.10-15.43.23:790][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.10-15.43.23:790][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.10-15.43.23:790][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.10-15.43.23:790][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.10-15.43.23:790][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.10-15.43.23:832][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.10-15.43.23:833][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.10-15.43.23:833][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Git/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.10-15.43.23:850][  0]LogInit: Computer: TYLERS-LAPTOP
+[2019.07.10-15.43.23:850][  0]LogInit: User: tvhow
+[2019.07.10-15.43.23:850][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.10-15.43.23:850][  0]LogInit: High frequency timer resolution =2.531247 MHz
+[2019.07.10-15.43.23:851][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.10-15.43.23:851][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.10-15.43.23:851][  0]LogMemory: Process Physical Memory: 96.22 MB used, 96.22 MB peak
+[2019.07.10-15.43.23:851][  0]LogMemory: Process Virtual Memory: 91.21 MB used, 91.21 MB peak
+[2019.07.10-15.43.23:851][  0]LogMemory: Physical Memory: 4608.12 MB used,  11684.58 MB free, 16292.70 MB total
+[2019.07.10-15.43.23:851][  0]LogMemory: Virtual Memory: 4656.37 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.07.10-15.43.24:368][  0]LogInit: Using OS detected language (en-US).
+[2019.07.10-15.43.24:368][  0]LogInit: Using OS detected locale (en-US).
+[2019.07.10-15.43.24:416][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.07.10-15.43.25:120][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.10-15.43.25:424][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.10-15.43.25:424][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.10-15.43.28:500][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.10-15.43.28:500][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.10-15.43.28:661][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2019.07.10-15.43.28:661][  0]LogD3D11RHI:       3032/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.10-15.43.28:675][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.07.10-15.43.28:675][  0]LogD3D11RHI:       128/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.07.10-15.43.28:685][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.10-15.43.28:685][  0]LogD3D11RHI:       0/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.10-15.43.28:685][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.10-15.43.28:741][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.10-15.43.28:741][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.10-15.43.28:741][  0]LogWindows: EnumDisplayDevices:
+[2019.07.10-15.43.28:741][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.07.10-15.43.28:741][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.07.10-15.43.28:742][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.07.10-15.43.28:742][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.07.10-15.43.28:742][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2019.07.10-15.43.28:742][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.07.10-15.43.28:742][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.07.10-15.43.28:742][  0]LogRHI: Texture pool is 2122 MB (70% of 3032 MB)
+[2019.07.10-15.43.28:821][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.10-15.43.28:962][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.10-15.43.28:980][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.10-15.43.28:980][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.10-15.43.29:040][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.07.10-15.43.29:968][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.10-15.43.29:987][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.10-15.43.30:001][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.10-15.43.30:056][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.10-15.43.30:100][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.10-15.43.30:133][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.10-15.43.30:161][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.10-15.43.30:176][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.10-15.43.30:184][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.10-15.43.30:307][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.10-15.43.30:317][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.10-15.43.30:418][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.10-15.43.30:418][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.10-15.43.30:455][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.10-15.43.30:455][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.10-15.43.30:479][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.10-15.43.30:517][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.10-15.43.30:544][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.10-15.43.30:567][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.10-15.43.30:642][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.10-15.43.30:642][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.10-15.43.30:642][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.10-15.43.30:711][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.10-15.43.31:119][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Git/maze-madness/MazeMadness/Intermediate/Shaders/WorkingDirectory/11712/).
+[2019.07.10-15.43.31:119][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tvhow/AppData/Local/Temp/UnrealShaderWorkingDir/89777AB9416B712C630240AF6E69907C/'.
+[2019.07.10-15.43.31:140][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.10-15.43.31:140][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.10-15.43.31:148][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.10-15.43.34:651][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.10-15.43.34:863][  0]LogDerivedDataCache: Loaded boot cache 0.21s 71MB C:/Users/tvhow/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.10-15.43.34:863][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tvhow/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.10-15.43.34:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Git/maze-madness/MazeMadness/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.10-15.43.34:863][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.10-15.43.34:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Git/maze-madness/MazeMadness/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.10-15.43.34:863][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.10-15.43.34:911][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.10-15.43.34:911][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.10-15.43.34:911][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.10-15.43.34:924][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tvhow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.10-15.43.34:924][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.10-15.43.34:924][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.10-15.43.34:967][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.10-15.43.35:091][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.10-15.43.35:106][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.10-15.43.35:477][  0]LogAssetRegistry: FAssetRegistry took 0.0349 seconds to start up
+[2019.07.10-15.43.38:601][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.10-15.43.39:596][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.10-15.43.39:596][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.10-15.43.39:596][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.10-15.43.39:596][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.10-15.43.39:597][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.10-15.43.39:933][  0]LogNetVersion: MazeMadness 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3041130436)
+[2019.07.10-15.43.43:032][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.155347 seconds
+[2019.07.10-15.43.43:050][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.10-15.43.43:051][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.10-15.43.43:051][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.10-15.43.51:692][  0]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.07.10-15.43.53:990][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.10-15.43.54:020][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.10-15.43.54:020][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2019.07.10-15.43.54:020][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2019.07.10-15.43.54:020][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2019.07.10-15.43.54:493][  0]SourceControl: Source control is disabled
+[2019.07.10-15.43.54:493][  0]SourceControl: Source control is disabled
+[2019.07.10-15.43.54:645][  0]SourceControl: Source control is disabled
+[2019.07.10-15.43.54:668][  0]SourceControl: Source control is disabled
+[2019.07.10-15.43.54:717][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.07.10-15.43.54:718][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.07.10-15.43.55:592][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.10-15.43.55:985][  0]LogOcInput: OculusInput pre-init called
+[2019.07.10-15.43.57:717][  0]LogEngine: Initializing Engine...
+[2019.07.10-15.43.57:749][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.10-15.43.57:764][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.07.10-15.43.58:517][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.10-15.43.58:843][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.10-15.43.58:947][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.10-15.43.59:132][  0]LogInit: FAudioDevice initialized.
+[2019.07.10-15.43.59:132][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.10-15.43.59:249][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/tvhow/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.10-15.43.59:254][  0]LogInit: Texture streaming: Enabled
+[2019.07.10-15.43.59:269][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.10-15.43.59:405][  0]LogInit: Transaction tracking system initialized
+[2019.07.10-15.43.59:849][  0]BlueprintLog: New page: Editor Load
+[2019.07.10-15.44.00:676][  0]LocalizationService: Localization service is disabled
+[2019.07.10-15.44.01:373][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.07.10-15.44.01:374][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.07.10-15.44.02:798][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.10-15.44.02:798][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.10-15.44.03:885][  0]LogFileCache: Scanning file cache for directory 'D:/Git/maze-madness/MazeMadness/Content/' took 0.04s
+[2019.07.10-15.44.04:683][  0]SourceControl: Source control is disabled
+[2019.07.10-15.44.04:699][  0]Cmd: MAP LOAD FILE="../../../../../Git/maze-madness/MazeMadness/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.10-15.44.04:707][  0]LightingResults: New page: Lighting Build
+[2019.07.10-15.44.04:753][  0]MapCheck: New page: Map Check
+[2019.07.10-15.44.04:754][  0]LightingResults: New page: Lighting Build
+[2019.07.10-15.44.04:801][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.07.10-15.45.13:381][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.07.10-15.45.14:559][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.10-15.45.14:694][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2019.07.10-15.45.14:700][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.10-15.45.14:701][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2019.07.10-15.45.14:701][  0]LogFileHelpers: Loading map 'Minimal_Default' took 70.002
+[2019.07.10-15.45.15:688][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.10-15.45.15:713][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.10-15.45.15:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.10-15.45.15:729][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.10-15.45.15:800][  0]LogCollectionManager: Loaded 0 collections in 0.001564 seconds
+[2019.07.10-15.45.15:932][  0]LogFileCache: Scanning file cache for directory 'D:/Git/maze-madness/MazeMadness/Saved/Collections/' took 0.01s
+[2019.07.10-15.45.15:932][  0]LogFileCache: Scanning file cache for directory 'D:/Git/maze-madness/MazeMadness/Content/Developers/tvhow/Collections/' took 0.01s
+[2019.07.10-15.45.15:932][  0]LogFileCache: Scanning file cache for directory 'D:/Git/maze-madness/MazeMadness/Content/Collections/' took 0.01s
+[2019.07.10-15.45.15:932][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.07.10-15.45.15:943][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2732 classes and 659 folders.
+[2019.07.10-15.45.16:059][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.07.10-15.45.16:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:245][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:255][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:266][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:390][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:497][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:503][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.16:530][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.10-15.45.17:167][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.07.10-15.45.17:244][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.07.10-15.45.18:175][  0]LogSlate: Took 0.000431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.10-15.45.18:177][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.10-15.45.18:208][  0]LogSlate: Took 0.014455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.10-15.45.18:592][  0]LogRenderer: Reallocating scene render targets to support 1208x604 Format 10 NumSamples 1 (Frame:1).
+[2019.07.10-15.45.19:015][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.07.10-15.45.19:015][  0]LogLoad: (Engine Initialization) Total time: 120.21 seconds
+[2019.07.10-15.45.19:015][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.10-15.45.19:040][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.10-15.45.19:211][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.10-15.45.19:304][  0]LogSlate: Took 0.013726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.10-15.45.19:621][  4]LogAssetRegistry: Asset discovery search completed in 104.1657 seconds
+[2019.07.10-15.45.19:632][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.10-15.45.19:632][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2019.07.10-15.45.20:053][ 28]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.10-15.45.22:065][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.10-15.45.22:177][225]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Maze3Actors/Map7.Map7
+[2019.07.10-15.45.22:848][225]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.07.10-15.45.25:282][225]LogSlate: Took 0.009616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.10-15.45.29:369][485]LogSlate: Took 0.000734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.10-15.45.32:576][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.10-20.34.52:279][831]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:292][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:293][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:294][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:295][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:296][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:297][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:298][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:299][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:300][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.52:301][831]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.10-20.34.54:377][833]LogHttp: Warning: 00000213384DAFC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.10-20.34.54:377][833]LogHttp: Warning: 00000213384DAFC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.10-20.34.54:377][833]LogHttp: Warning: 00000213384DAFC0: libcurl info message cache 1 (Closing connection 0)
+[2019.07.10-20.34.54:384][834]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9E8BCD9C-417A-4805-8DAB-CB97F4AAA157%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.2-6574378%2B%2B%2BUE4%2BRelease-4.22&UserID=cd13905c4c03991a1ba0fa9209137111%7Cefb630a33d0b4ff2ac4e06150cd5de8e%7C522bfed7-c60d-4e64-8b74-857cf91c5acb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.10-20.35.19:251][905]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (26.959 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.11-00.02.20:005][735]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.07.11-00.02.20:113][735]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.11-00.02.20:114][735]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.11-00.02.20:114][735]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.11-00.02.20:114][735]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.11-00.02.20:114][735]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.11-00.02.20:114][735]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.11-00.02.25:248][748]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.07.11-00.09.40:260][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-00.09.51:181][361]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Sub Designer Proj\RockFloor\RockGround_height.tga)
+[2019.07.11-00.09.51:456][361]LogTexture: Display: Building textures: RockGround_height (G8, 2048X2048)
+[2019.07.11-00.09.51:865][361]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Sub Designer Proj\RockFloor\RockGround_metallic.tga)
+[2019.07.11-00.09.51:921][361]LogTexture: Display: Building textures: RockGround_metallic (G8, 2048X2048)
+[2019.07.11-00.09.52:314][361]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Sub Designer Proj\RockFloor\RockGround_normal.tga)
+[2019.07.11-00.09.52:436][361]LogTexture: Display: Building textures: RockGround_normal (BC5, 2048X2048)
+[2019.07.11-00.09.52:938][361]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Sub Designer Proj\RockFloor\RockGround_roughness.tga)
+[2019.07.11-00.09.52:988][361]LogTexture: Display: Building textures: RockGround_roughness (G8, 2048X2048)
+[2019.07.11-00.09.53:348][361]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Sub Designer Proj\RockFloor\RockGround_AO.tga)
+[2019.07.11-00.09.53:406][361]LogTexture: Display: Building textures: RockGround_AO (G8, 2048X2048)
+[2019.07.11-00.09.53:793][361]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Sub Designer Proj\RockFloor\RockGround_basecolor.tga)
+[2019.07.11-00.09.53:897][361]LogTexture: Display: Building textures: RockGround_basecolor (AutoDXT, 2048X2048)
+[2019.07.11-00.09.58:340][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-00.10.04:652][922]LogAssetEditorManager: Opening Asset editor for Material /Game/Textures/RockFloors/RockFloor.RockFloor
+[2019.07.11-00.10.04:669][922]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.05:651][922]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.05:675][922]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.05:699][922]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.10.06:852][962]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.11-00.10.08:542][ 46]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.08:570][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.11-00.10.08:608][ 46]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.10.08:608][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.11-00.10.08:629][ 46]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.08:656][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.11-00.10.08:694][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.11-00.10.08:703][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.11-00.10.08:729][ 46]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.08:765][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.07.11-00.10.08:807][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.11-00.10.08:817][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.11-00.10.08:828][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.07.11-00.10.08:849][ 46]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.08:881][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.07.11-00.10.08:919][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.11-00.10.08:931][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.11-00.10.08:942][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.07.11-00.10.08:952][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.07.11-00.10.08:970][ 46]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.09:004][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.07.11-00.10.09:044][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.11-00.10.09:055][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.11-00.10.09:065][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.07.11-00.10.09:073][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.07.11-00.10.09:084][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.07.11-00.10.09:106][ 46]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.09:132][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.07.11-00.10.09:171][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.07.11-00.10.09:180][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.11-00.10.09:189][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.07.11-00.10.09:199][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.07.11-00.10.09:209][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.07.11-00.10.09:218][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.07.11-00.10.09:457][ 54]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.10.10:415][ 94]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.10.11:962][164]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.11-00.10.12:187][174]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.11-00.10.12:187][174]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.07.11-00.10.12:187][174]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.11-00.10.12:187][174]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.11-00.10.18:641][538]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.18:677][539]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.10.19:506][580]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.11-00.10.21:657][687]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.07.11-00.10.21:657][687]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.07.11-00.10.21:657][687]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.07.11-00.10.21:657][687]MaterialEditorStats: Texture samplers: 4/16
+[2019.07.11-00.10.21:657][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.07.11-00.10.21:657][687]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.07.11-00.10.25:283][899]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.25:302][899]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.10.26:143][939]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.11-00.10.28:315][ 43]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.07.11-00.10.28:315][ 43]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2019.07.11-00.10.28:315][ 43]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.07.11-00.10.28:315][ 43]MaterialEditorStats: Texture samplers: 5/16
+[2019.07.11-00.10.28:315][ 43]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.07.11-00.10.28:315][ 43]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.07.11-00.10.29:580][118]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.29:651][119]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.10.30:366][154]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.10.31:193][195]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.10.32:245][248]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.11-00.10.32:629][265]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.32:698][267]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.10.33:727][315]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.10.34:564][356]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.10.35:326][397]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.35:665][411]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.10.36:584][455]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.10.37:421][497]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.10.38:079][531]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.10.38:209][536]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.10.39:247][585]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.10.40:058][625]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.10.41:162][681]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.11-00.10.42:957][767]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.07.11-00.10.43:113][773]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.07.11-00.10.43:113][773]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2019.07.11-00.10.43:113][773]MaterialEditorStats: Base pass vertex shader: 52 instructions
+[2019.07.11-00.10.43:113][773]MaterialEditorStats: Texture samplers: 8/16
+[2019.07.11-00.10.43:113][773]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(5)
+[2019.07.11-00.10.43:113][773]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.07.11-00.10.43:802][811]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.07.11-00.11.04:994][ 40]LogMaterialEditor: Applying material RockFloor
+[2019.07.11-00.11.05:621][ 40]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.05:705][ 40]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.05:745][ 40]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.05:807][ 40]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.06:234][ 40]LogUObjectHash: Compacting FUObjectHashTables data took  65.28ms
+[2019.07.11-00.11.06:249][ 40]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.11-00.11.09:092][ 40]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.07.11-00.11.09:092][ 40]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.07.11-00.11.09:092][ 40]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.07.11-00.11.09:095][ 40]TextureStreamingBuild: Display: Compiling optional shaders took 2.861 seconds.
+[2019.07.11-00.11.09:221][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.07.11-00.11.12:237][193]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.12:263][193]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.13:652][259]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.14:826][319]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.11.14:967][326]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.15:047][328]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.15:898][370]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.16:874][421]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.11.17:847][472]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.11-00.11.19:786][569]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.07.11-00.11.19:787][569]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2019.07.11-00.11.19:787][569]MaterialEditorStats: Base pass vertex shader: 52 instructions
+[2019.07.11-00.11.19:787][569]MaterialEditorStats: Texture samplers: 8/16
+[2019.07.11-00.11.19:787][569]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(5)
+[2019.07.11-00.11.19:787][569]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.07.11-00.11.21:667][680]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.21:706][681]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.22:386][715]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.23:011][749]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.23:037][749]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.23:852][789]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.24:934][839]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.11.26:183][895]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.11-00.11.26:652][916]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.26:938][927]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.27:836][971]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.28:401][  1]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.28:482][  3]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.29:330][ 45]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.30:131][ 89]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.11.30:484][108]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.30:515][108]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.31:347][149]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.32:148][191]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.11.33:165][245]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.11-00.11.34:040][289]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.34:078][289]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.34:309][298]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.34:825][324]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.34:861][324]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.34:913][325]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.35:761][369]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.36:484][404]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.36:537][405]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.37:335][446]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.37:877][474]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.37:907][474]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.37:917][474]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.37:944][474]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.38:833][519]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.39:015][528]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.39:056][528]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.39:082][528]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.39:900][570]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.40:014][575]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.40:129][578]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.41:113][625]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.11-00.11.41:963][666]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.11-00.11.42:197][678]LogMaterialEditor: Applying material RockFloor
+[2019.07.11-00.11.42:882][678]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.11-00.11.42:929][678]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.43:042][678]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.11-00.11.43:074][678]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.43:125][678]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.11.43:275][678]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2019.07.11-00.11.43:344][678]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.11-00.11.46:243][678]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.07.11-00.11.46:243][678]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.07.11-00.11.46:243][678]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.07.11-00.11.46:245][678]TextureStreamingBuild: Display: Compiling optional shaders took 2.913 seconds.
+[2019.07.11-00.11.46:315][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.07.11-00.11.51:612][958]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.07.11-00.11.51:612][958]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2019.07.11-00.11.51:612][958]MaterialEditorStats: Base pass vertex shader: 53 instructions
+[2019.07.11-00.11.51:612][958]MaterialEditorStats: Texture samplers: 8/16
+[2019.07.11-00.11.51:612][958]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(5)
+[2019.07.11-00.11.51:612][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.07.11-00.12.09:966][ 57]LogSlate: Window 'RockFloor' being destroyed
+[2019.07.11-00.12.09:974][ 57]LogSlate: Window 'RockFloor' being destroyed
+[2019.07.11-00.12.12:040][161]LogMaterial: Warning: Material /Game/Textures/RockFloors/RockFloor.RockFloor needed to have new flag set bUsedWithStaticLighting !
+[2019.07.11-00.12.12:043][161]LogMaterial: Display: Missing cached shader map for material RockFloor, compiling. 
+[2019.07.11-00.12.29:785][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.07.11-00.12.29:791][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.11-00.12.32:833][ 53]LogSlate: Window 'Save Content' being destroyed
+[2019.07.11-00.12.33:004][ 53]LogSlate: Window 'MazeMadness - Unreal Editor' being destroyed
+[2019.07.11-00.12.33:361][ 54]Cmd: QUIT_EDITOR
+[2019.07.11-00.12.33:598][ 54]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.11-00.12.33:695][ 54]LogExit: Preparing to exit.
+[2019.07.11-00.12.36:532][ 54]LogExit: Editor shut down
+[2019.07.11-00.12.36:534][ 54]LogExit: Transaction tracking system shut down
+[2019.07.11-00.12.38:768][ 54]LogExit: Object subsystem successfully closed.
+[2019.07.11-00.12.38:970][ 54]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.07.11-00.12.38:983][ 54]LogD3D11RHI: Shutdown
+[2019.07.11-00.12.38:983][ 54]LogD3D11RHI: CleanupD3DDevice
+[2019.07.11-00.12.39:069][ 54]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.11-00.12.39:069][ 54]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.11-00.12.39:069][ 54]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.11-00.12.39:069][ 54]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.11-00.12.39:069][ 54]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.11-00.12.39:069][ 54]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.11-00.12.39:405][ 54]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.07.11-00.12.41:620][ 54]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2019.07.11-00.12.41:620][ 54]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.07.11-00.12.41:620][ 54]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.07.11-00.12.41:620][ 54]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.07.11-00.12.41:657][ 54]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.07.11-00.12.41:657][ 54]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.07.11-00.12.41:657][ 54]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.07.11-00.12.41:671][ 54]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.07.11-00.12.41:671][ 54]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.07.11-00.12.41:671][ 54]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.07.11-00.12.41:701][ 54]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.07.11-00.12.41:701][ 54]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.07.11-00.12.41:701][ 54]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.07.11-00.12.41:701][ 54]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.07.11-00.12.41:701][ 54]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.07.11-00.12.41:701][ 54]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.07.11-00.12.41:701][ 54]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.07.11-00.12.41:713][ 54]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.07.11-00.12.41:713][ 54]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.07.11-00.12.41:725][ 54]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.07.11-00.12.41:725][ 54]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.07.11-00.12.41:725][ 54]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.07.11-00.12.41:725][ 54]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.07.11-00.12.41:778][ 54]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.07.11-00.12.41:778][ 54]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.07.11-00.12.41:778][ 54]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.07.11-00.12.41:787][ 54]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.07.11-00.12.41:787][ 54]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.07.11-00.12.41:788][ 54]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.07.11-00.12.41:789][ 54]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.07.11-00.12.41:789][ 54]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.07.11-00.12.41:789][ 54]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.07.11-00.12.41:804][ 54]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.07.11-00.12.41:907][ 54]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.07.11-00.12.41:908][ 54]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.07.11-00.12.41:908][ 54]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.07.11-00.12.41:908][ 54]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.07.11-00.12.41:908][ 54]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.07.11-00.12.41:908][ 54]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.07.11-00.12.41:908][ 54]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.07.11-00.12.41:908][ 54]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.07.11-00.12.41:908][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.07.11-00.12.41:908][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.07.11-00.12.41:909][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.07.11-00.12.41:909][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.07.11-00.12.41:909][ 54]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.07.11-00.12.41:909][ 54]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.07.11-00.12.41:909][ 54]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.07.11-00.12.41:909][ 54]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.07.11-00.12.41:918][ 54]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.07.11-00.12.41:918][ 54]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.07.11-00.12.41:926][ 54]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.07.11-00.12.41:947][ 54]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.07.11-00.12.41:962][ 54]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.07.11-00.12.41:973][ 54]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.07.11-00.12.41:988][ 54]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.07.11-00.12.42:002][ 54]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.07.11-00.12.42:002][ 54]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.07.11-00.12.42:012][ 54]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.07.11-00.12.42:012][ 54]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.07.11-00.12.42:012][ 54]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.07.11-00.12.42:806][ 54]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.07.11-00.12.42:806][ 54]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.07.11-00.12.42:806][ 54]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.07.11-00.12.42:806][ 54]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.07.11-00.12.42:806][ 54]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.07.11-00.12.42:820][ 54]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.07.11-00.12.42:827][ 54]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.07.11-00.12.42:840][ 54]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.07.11-00.12.42:850][ 54]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.07.11-00.12.42:855][ 54]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.07.11-00.12.42:855][ 54]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.07.11-00.12.42:862][ 54]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.07.11-00.12.42:875][ 54]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.07.11-00.12.42:883][ 54]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.07.11-00.12.42:883][ 54]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.07.11-00.12.42:883][ 54]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.07.11-00.12.42:890][ 54]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.07.11-00.12.42:890][ 54]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.07.11-00.12.42:896][ 54]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.07.11-00.12.42:910][ 54]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.07.11-00.12.42:923][ 54]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.07.11-00.12.42:932][ 54]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.07.11-00.12.42:948][ 54]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.07.11-00.12.42:999][ 54]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.07.11-00.12.43:006][ 54]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.07.11-00.12.43:016][ 54]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.07.11-00.12.43:027][ 54]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.07.11-00.12.43:027][ 54]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.07.11-00.12.43:027][ 54]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.07.11-00.12.43:028][ 54]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.07.11-00.12.43:046][ 54]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.07.11-00.12.43:077][ 54]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.07.11-00.12.43:077][ 54]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.07.11-00.12.43:077][ 54]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.07.11-00.12.43:094][ 54]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.07.11-00.12.43:095][ 54]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.07.11-00.12.43:095][ 54]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.07.11-00.12.43:104][ 54]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.07.11-00.12.43:115][ 54]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.07.11-00.12.43:127][ 54]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.07.11-00.12.43:131][ 54]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.07.11-00.12.43:138][ 54]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.07.11-00.12.43:138][ 54]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.07.11-00.12.43:140][ 54]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.07.11-00.12.43:140][ 54]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.07.11-00.12.43:140][ 54]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.07.11-00.12.43:140][ 54]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.07.11-00.12.43:148][ 54]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.07.11-00.12.43:148][ 54]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.07.11-00.12.43:148][ 54]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.07.11-00.12.43:148][ 54]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.07.11-00.12.43:148][ 54]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.07.11-00.12.43:148][ 54]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.07.11-00.12.43:149][ 54]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.07.11-00.12.43:149][ 54]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.07.11-00.12.43:155][ 54]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.07.11-00.12.43:155][ 54]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.07.11-00.12.43:162][ 54]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.07.11-00.12.43:167][ 54]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.07.11-00.12.43:270][ 54]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.07.11-00.12.43:286][ 54]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.07.11-00.12.43:286][ 54]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.07.11-00.12.43:295][ 54]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.07.11-00.12.43:295][ 54]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.07.11-00.12.43:306][ 54]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.07.11-00.12.43:309][ 54]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.07.11-00.12.43:310][ 54]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.07.11-00.12.43:310][ 54]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.07.11-00.12.43:310][ 54]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.07.11-00.12.43:310][ 54]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.07.11-00.12.43:310][ 54]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.07.11-00.12.43:310][ 54]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.07.11-00.12.43:310][ 54]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.07.11-00.12.43:310][ 54]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.07.11-00.12.43:339][ 54]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.07.11-00.12.43:339][ 54]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.07.11-00.12.43:339][ 54]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.07.11-00.12.43:339][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.07.11-00.12.43:339][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.07.11-00.12.43:339][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.07.11-00.12.43:339][ 54]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.07.11-00.12.43:339][ 54]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.07.11-00.12.43:339][ 54]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.07.11-00.12.43:339][ 54]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.07.11-00.12.43:346][ 54]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.07.11-00.12.43:346][ 54]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.07.11-00.12.43:346][ 54]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.07.11-00.12.43:346][ 54]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.07.11-00.12.43:346][ 54]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.07.11-00.12.43:346][ 54]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.07.11-00.12.43:346][ 54]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.07.11-00.12.43:346][ 54]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.07.11-00.12.43:346][ 54]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.07.11-00.12.43:352][ 54]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.07.11-00.12.43:352][ 54]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.07.11-00.12.43:368][ 54]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.07.11-00.12.43:374][ 54]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.07.11-00.12.43:392][ 54]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.07.11-00.12.43:392][ 54]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.07.11-00.12.43:392][ 54]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.07.11-00.12.43:408][ 54]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.07.11-00.12.43:408][ 54]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.07.11-00.12.43:409][ 54]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.07.11-00.12.43:443][ 54]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.07.11-00.12.43:462][ 54]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.07.11-00.12.43:470][ 54]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.07.11-00.12.43:470][ 54]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.07.11-00.12.43:470][ 54]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.07.11-00.12.43:470][ 54]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.07.11-00.12.43:476][ 54]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.07.11-00.12.43:476][ 54]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.07.11-00.12.43:481][ 54]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.07.11-00.12.43:481][ 54]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.07.11-00.12.43:481][ 54]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.07.11-00.12.43:503][ 54]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.07.11-00.12.43:503][ 54]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.07.11-00.12.43:503][ 54]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.07.11-00.12.43:503][ 54]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.07.11-00.12.43:503][ 54]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.07.11-00.12.43:503][ 54]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.07.11-00.12.43:503][ 54]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.07.11-00.12.43:604][ 54]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.07.11-00.12.43:714][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.07.11-00.12.43:714][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.07.11-00.12.43:714][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.07.11-00.12.43:714][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.07.11-00.12.43:714][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.07.11-00.12.43:720][ 54]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.07.11-00.12.43:720][ 54]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.07.11-00.12.43:720][ 54]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.07.11-00.12.43:720][ 54]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.07.11-00.12.43:725][ 54]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.07.11-00.12.43:726][ 54]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.07.11-00.12.43:726][ 54]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.07.11-00.12.43:726][ 54]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.07.11-00.12.43:734][ 54]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.07.11-00.12.43:755][ 54]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.07.11-00.12.43:769][ 54]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.07.11-00.12.43:776][ 54]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.07.11-00.12.43:776][ 54]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.07.11-00.12.43:816][ 54]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.07.11-00.12.43:818][ 54]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.07.11-00.12.43:830][ 54]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.07.11-00.12.43:830][ 54]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.07.11-00.12.43:831][ 54]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.07.11-00.12.43:831][ 54]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.07.11-00.12.43:831][ 54]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.07.11-00.12.43:838][ 54]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.07.11-00.12.43:838][ 54]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.07.11-00.12.43:838][ 54]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.07.11-00.12.43:838][ 54]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.07.11-00.12.43:864][ 54]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.07.11-00.12.43:864][ 54]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.07.11-00.12.43:864][ 54]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.07.11-00.12.43:864][ 54]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.07.11-00.12.43:875][ 54]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.07.11-00.12.43:967][ 54]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.07.11-00.12.43:967][ 54]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.07.11-00.12.43:987][ 54]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.07.11-00.12.43:994][ 54]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.07.11-00.12.44:005][ 54]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.07.11-00.12.44:059][ 54]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.07.11-00.12.44:066][ 54]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.07.11-00.12.44:091][ 54]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.07.11-00.12.44:126][ 54]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.07.11-00.12.44:126][ 54]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.07.11-00.12.44:152][ 54]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.07.11-00.12.44:152][ 54]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.07.11-00.12.44:215][ 54]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.07.11-00.12.44:215][ 54]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.07.11-00.12.44:215][ 54]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.07.11-00.12.44:215][ 54]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.07.11-00.12.44:215][ 54]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.07.11-00.12.44:215][ 54]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.07.11-00.12.44:215][ 54]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.07.11-00.12.44:215][ 54]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.07.11-00.12.44:216][ 54]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.07.11-00.12.44:235][ 54]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.07.11-00.12.44:246][ 54]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.07.11-00.12.44:247][ 54]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.07.11-00.12.44:253][ 54]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.07.11-00.12.44:283][ 54]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.07.11-00.12.44:295][ 54]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.07.11-00.12.44:300][ 54]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.07.11-00.12.44:340][ 54]LogDerivedDataCache: Shutdown
+[2019.07.11-00.12.44:341][ 54]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.07.11-00.12.44:348][ 54]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.07.11-00.12.44:357][ 54]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.07.11-00.12.44:368][ 54]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.07.11-00.12.44:373][ 54]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.07.11-00.12.44:380][ 54]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.07.11-00.12.44:380][ 54]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.07.11-00.12.44:391][ 54]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.07.11-00.12.44:391][ 54]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.07.11-00.12.44:391][ 54]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.07.11-00.12.44:391][ 54]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.07.11-00.12.44:452][ 54]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.07.11-00.12.44:452][ 54]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.07.11-00.12.44:452][ 54]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.07.11-00.12.44:452][ 54]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.07.11-00.12.44:452][ 54]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.07.11-00.12.44:452][ 54]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.07.11-00.12.44:452][ 54]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.07.11-00.12.44:478][ 54]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.07.11-00.12.44:478][ 54]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.07.11-00.12.44:478][ 54]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.07.11-00.12.44:478][ 54]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.07.11-00.12.44:478][ 54]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.07.11-00.12.44:487][ 54]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.07.11-00.12.44:487][ 54]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.07.11-00.12.44:494][ 54]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.07.11-00.12.44:500][ 54]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.07.11-00.12.44:579][ 54]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.07.11-00.12.44:579][ 54]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.07.11-00.12.44:583][ 54]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.07.11-00.12.44:590][ 54]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.07.11-00.12.44:596][ 54]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.07.11-00.12.44:596][ 54]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.07.11-00.12.44:602][ 54]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.07.11-00.12.44:602][ 54]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.07.11-00.12.44:602][ 54]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.07.11-00.12.44:611][ 54]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.07.11-00.12.44:611][ 54]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.07.11-00.12.44:611][ 54]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.07.11-00.12.44:613][ 54]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.07.11-00.12.44:613][ 54]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.07.11-00.12.44:613][ 54]LogHMD: Freeing OpenVRDLLHandle.
+[2019.07.11-00.12.44:613][ 54]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.07.11-00.12.44:613][ 54]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.07.11-00.12.44:614][ 54]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.07.11-00.12.44:614][ 54]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.07.11-00.12.44:614][ 54]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.07.11-00.12.44:615][ 54]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.07.11-00.12.44:625][ 54]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.07.11-00.12.44:693][ 54]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.07.11-00.12.44:693][ 54]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.07.11-00.12.44:693][ 54]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9E8BCD9C-417A-4805-8DAB-CB97F4AAA157%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.2-6574378%2B%2B%2BUE4%2BRelease-4.22&UserID=cd13905c4c03991a1ba0fa9209137111%7Cefb630a33d0b4ff2ac4e06150cd5de8e%7C522bfed7-c60d-4e64-8b74-857cf91c5acb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.07.11-00.12.44:698][ 54]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.07.11-00.12.44:728][ 54]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.07.11-00.12.44:745][ 54]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.07.11-00.12.44:751][ 54]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.07.11-00.12.44:762][ 54]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.07.11-00.12.44:769][ 54]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.07.11-00.12.44:778][ 54]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.07.11-00.12.44:835][ 54]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.07.11-00.12.44:915][ 54]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.07.11-00.12.44:915][ 54]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.07.11-00.12.44:915][ 54]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.07.11-00.12.44:915][ 54]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.07.11-00.12.44:946][ 54]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.07.11-00.12.44:953][ 54]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.07.11-00.12.44:953][ 54]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.07.11-00.12.44:953][ 54]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.07.11-00.12.44:961][ 54]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.07.11-00.12.44:961][ 54]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.07.11-00.12.44:961][ 54]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.07.11-00.12.44:973][ 54]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.07.11-00.12.44:973][ 54]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.07.11-00.12.44:977][ 54]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.07.11-00.12.44:981][ 54]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.07.11-00.12.44:992][ 54]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.07.11-00.12.45:027][ 54]LogExit: Exiting.
+[2019.07.11-00.12.45:039][ 54]Log file closed, 07/10/19 20:12:45
