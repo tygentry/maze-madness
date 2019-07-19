@@ -1,0 +1,1237 @@
+﻿Log file open, 07/19/19 08:34:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MazeMadness
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.440957
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  /Game/Levels/StartMenu -game -PIEVIACONSOLE -ResX=1280 -ResY=720 -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.19-12.34.46:560][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.19-12.34.46:561][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.19-12.34.46:561][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.19-12.34.46:562][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.19-12.34.46:562][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.19-12.34.46:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.19-12.34.46:562][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.19-12.34.46:567][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.19-12.34.46:567][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.19-12.34.46:568][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.19-12.34.46:569][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.19-12.34.46:569][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.19-12.34.46:569][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.19-12.34.46:579][  0]LogHAL: Display: Platform has ~ 16 GB [16899207168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.19-12.34.46:579][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.19-12.34.46:579][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.19-12.34.46:579][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:579][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.19-12.34.46:580][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.19-12.34.46:581][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.19-12.34.46:582][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Saved/Config/Windows/Engine.ini]
+[2019.07.19-12.34.46:583][  0]LogInit: Computer: DESKTOP-MQ50EGT
+[2019.07.19-12.34.46:583][  0]LogInit: User: gentrt
+[2019.07.19-12.34.46:583][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.07.19-12.34.46:583][  0]LogInit: High frequency timer resolution =2.156249 MHz
+[2019.07.19-12.34.46:583][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2019.07.19-12.34.46:583][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.19-12.34.46:583][  0]LogMemory: Process Physical Memory: 98.18 MB used, 98.18 MB peak
+[2019.07.19-12.34.46:583][  0]LogMemory: Process Virtual Memory: 89.93 MB used, 89.93 MB peak
+[2019.07.19-12.34.46:583][  0]LogMemory: Physical Memory: 10260.16 MB used,  5856.18 MB free, 16116.34 MB total
+[2019.07.19-12.34.46:583][  0]LogMemory: Virtual Memory: 4672.57 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.07.19-12.34.46:618][  0]LogInit: Using OS detected language (en-US).
+[2019.07.19-12.34.46:619][  0]LogInit: Using OS detected locale (en-US).
+[2019.07.19-12.34.46:620][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.07.19-12.34.46:944][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.19-12.34.46:944][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.19-12.34.46:967][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.19-12.34.46:967][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.19-12.34.46:984][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.07.19-12.34.46:984][  0]LogD3D11RHI:       128/0/8058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.07.19-12.34.47:033][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1050 Ti with Max-Q Design' (Feature Level 11_0)
+[2019.07.19-12.34.47:033][  0]LogD3D11RHI:       4031/0/8058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2019.07.19-12.34.47:035][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.19-12.34.47:035][  0]LogD3D11RHI:       0/0/8058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.19-12.34.47:035][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.07.19-12.34.47:044][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.19-12.34.47:044][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.07.19-12.34.47:044][  0]LogWindows: EnumDisplayDevices:
+[2019.07.19-12.34.47:044][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.07.19-12.34.47:044][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.07.19-12.34.47:045][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.07.19-12.34.47:045][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.07.19-12.34.47:045][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti with Max-Q Design
+[2019.07.19-12.34.47:045][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.07.19-12.34.47:045][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.07.19-12.34.47:045][  0]LogRHI: Texture pool is 2821 MB (70% of 4031 MB)
+[2019.07.19-12.34.47:080][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.19-12.34.47:084][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.19-12.34.47:085][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.19-12.34.47:085][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.19-12.34.47:093][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.07.19-12.34.47:423][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.19-12.34.47:441][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.19-12.34.47:459][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.19-12.34.47:467][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.19-12.34.47:467][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.19-12.34.47:477][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.19-12.34.47:537][  0]LogShaderCompilers: Guid format shader working directory is -53 characters bigger than the processId version (../../../../../../Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/Intermediate/Shaders/WorkingDirectory/7468/).
+[2019.07.19-12.34.47:537][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gentrt/AppData/Local/Temp/UnrealShaderWorkingDir/7934D5DC4C68CE61C8A0808D180EC33D/'.
+[2019.07.19-12.34.47:540][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.19-12.34.47:541][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.19-12.34.47:541][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.19-12.34.48:243][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.19-12.34.48:302][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/gentrt/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.19-12.34.48:303][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gentrt/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.19-12.34.48:303][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.19-12.34.48:303][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.19-12.34.48:303][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/gentrt/Documents/Personal/MazeMadness/maze-madness2/maze-madness/MazeMadness/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.19-12.34.48:303][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.19-12.34.48:318][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.19-12.34.48:318][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.19-12.34.48:318][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.19-12.34.48:330][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gentrt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.19-12.34.48:330][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.19-12.34.48:330][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.19-12.34.48:397][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.19-12.34.48:400][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.19-12.34.48:401][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.19-12.34.48:571][  0]LogInit: Using OS detected language (en-US).
+[2019.07.19-12.34.48:571][  0]LogInit: Using OS detected locale (en-US).
+[2019.07.19-12.34.48:571][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.07.19-12.34.48:571][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2019.07.19-12.34.48:571][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.07.19-12.34.48:571][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.07.19-12.34.48:573][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2019.07.19-12.34.48:581][  0]LogAssetRegistry: FAssetRegistry took 0.0049 seconds to start up
+[2019.07.19-12.34.48:810][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.000582 seconds
+[2019.07.19-12.34.48:956][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.19-12.34.49:103][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.19-12.34.49:103][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.19-12.34.49:103][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.19-12.34.49:103][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.19-12.34.49:103][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.19-12.34.49:118][  0]LogNetVersion: MazeMadness 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3041130436)
+[2019.07.19-12.34.50:123][  0]LogMoviePlayer: Initializing movie player
+[2019.07.19-12.34.50:257][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.19-12.34.50:270][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.19-12.34.50:414][  0]SourceControl: Source control is disabled
+[2019.07.19-12.34.50:414][  0]SourceControl: Source control is disabled
+[2019.07.19-12.34.50:417][  0]SourceControl: Source control is disabled
+[2019.07.19-12.34.50:476][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.19-12.34.50:545][  0]LogOcInput: OculusInput pre-init called
+[2019.07.19-12.34.50:556][  0]LogUObjectArray: 46459 objects as part of root set at end of initial load.
+[2019.07.19-12.34.50:556][  0]LogUObjectAllocator: 8159704 out of 0 bytes used by permanent object pool.
+[2019.07.19-12.34.50:557][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.19-12.34.50:787][  0]LogEngine: Initializing Engine...
+[2019.07.19-12.34.50:789][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.19-12.34.50:804][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.07.19-12.34.51:132][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.19-12.34.51:149][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.19-12.34.51:262][  0]LogInit: FAudioDevice initialized.
+[2019.07.19-12.34.51:274][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.19-12.34.51:295][  0]LogInit: Texture streaming: Enabled
+[2019.07.19-12.34.51:631][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-12.34.51:631][  0]LogInit: Display: Game Engine Initialized.
+[2019.07.19-12.34.51:676][  0]LogInit: Display: Starting Game.
+[2019.07.19-12.34.51:676][  0]LogNet: Browse: /Game/Levels/StartMenu?Name=Player
+[2019.07.19-12.34.51:676][  0]LogLoad: LoadMap: /Game/Levels/StartMenu?Name=Player
+[2019.07.19-12.34.51:715][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.07.19-12.34.51:808][  0]LogAIModule: Creating AISystem for world StartMenu
+[2019.07.19-12.34.51:811][  0]LogLoad: Game class is 'MazeGamemode_C'
+[2019.07.19-12.34.51:813][  0]LogWorld: Bringing World /Game/Levels/StartMenu.StartMenu up for play (max tick rate 0) at 2019.07.19-08.34.51
+[2019.07.19-12.34.51:813][  0]LogWorld: Bringing up level for play took: 0.000548
+[2019.07.19-12.34.51:814][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.07.19-12.34.51:817][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.19-12.34.51:817][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.19-12.34.51:817][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.19-12.34.51:820][  0]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.07.19-12.34.51:820][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.19-12.34.51:820][  0]LogLoad: Took 0.143055 seconds to LoadMap(/Game/Levels/StartMenu)
+[2019.07.19-12.34.51:877][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.07.19-12.34.51:877][  0]LogLoad: (Engine Initialization) Total time: 8.27 seconds
+[2019.07.19-12.34.51:877][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.19-12.34.51:917][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.19-12.34.51:920][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.19-12.34.54:688][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-12.35.08:756][ 31]LogPackageName: SearchForPackageOnDisk took   0.097s to resolve Mazes.umap.
+[2019.07.19-12.35.08:757][ 32]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.07.19-12.35.08:757][ 32]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.07.19-12.35.08:970][ 32]LogPackageName: SearchForPackageOnDisk took   0.213s to resolve Mazes.umap.
+[2019.07.19-12.35.08:970][ 32]LogNet: Browse: /Game/Levels/Mazes
+[2019.07.19-12.35.08:970][ 32]LogLoad: LoadMap: /Game/Levels/Mazes
+[2019.07.19-12.35.09:070][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.07.19-12.35.15:690][ 32]LogAIModule: Creating AISystem for world Mazes
+[2019.07.19-12.35.15:694][ 32]LogLoad: Game class is 'MazeGamemode_C'
+[2019.07.19-12.35.16:331][ 32]LogWorld: Bringing World /Game/Levels/Mazes.Mazes up for play (max tick rate 0) at 2019.07.19-08.35.16
+[2019.07.19-12.35.16:339][ 32]LogWorld: Bringing up level for play took: 0.644445
+[2019.07.19-12.35.16:340][ 32]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.19-12.35.16:340][ 32]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.19-12.35.16:340][ 32]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.19-12.35.16:341][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-12.35.16:341][ 32]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.19-12.35.16:342][ 32]LogLoad: Took 7.371316 seconds to LoadMap(/Game/Levels/Mazes)
+[2019.07.19-12.35.16:342][ 32]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:004C
+[2019.07.19-12.35.16:342][ 32]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:342][ 32]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:014D
+[2019.07.19-12.35.16:342][ 32]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:343][ 32]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:004C
+[2019.07.19-12.35.16:343][ 32]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:343][ 32]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:014D
+[2019.07.19-12.35.16:343][ 32]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:343][ 32]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:004C
+[2019.07.19-12.35.16:343][ 32]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:343][ 32]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:014D
+[2019.07.19-12.35.16:343][ 32]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:343][ 32]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:356][ 33]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:004C
+[2019.07.19-12.35.16:356][ 33]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:356][ 33]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:014D
+[2019.07.19-12.35.16:356][ 33]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:356][ 33]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:004C
+[2019.07.19-12.35.16:356][ 33]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:356][ 33]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:014D
+[2019.07.19-12.35.16:356][ 33]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:356][ 33]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:004C
+[2019.07.19-12.35.16:356][ 33]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:356][ 33]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:014D
+[2019.07.19-12.35.16:357][ 33]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:357][ 33]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:511][ 34]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:004C
+[2019.07.19-12.35.16:511][ 34]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:512][ 34]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:014D
+[2019.07.19-12.35.16:512][ 34]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:512][ 34]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:004C
+[2019.07.19-12.35.16:512][ 34]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:512][ 34]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:014D
+[2019.07.19-12.35.16:512][ 34]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:512][ 34]LogScript: Warning: Accessed None trying to read property Text
+	StartArea_C /Game/Levels/Mazes.Mazes:PersistentLevel.StartArea_2
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle:004C
+[2019.07.19-12.35.16:512][ 34]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/StartArea.StartArea_C:ReceiveTick
+	Function /Game/Blueprints/StartArea.StartArea_C:ExecuteUbergraph_StartArea
+	Function /Game/Blueprints/StartArea.StartArea_C:GetAngle
+
+[2019.07.19-12.35.16:512][ 34]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:562][ 35]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:609][ 36]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:638][ 37]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:654][ 38]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:670][ 39]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:686][ 40]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:703][ 41]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:719][ 42]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:735][ 43]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:750][ 44]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:766][ 45]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:782][ 46]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:799][ 47]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:815][ 48]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:831][ 49]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:847][ 50]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:864][ 51]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:880][ 52]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:895][ 53]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:912][ 54]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:928][ 55]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:944][ 56]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:960][ 57]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:977][ 58]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.16:993][ 59]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:009][ 60]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:025][ 61]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:042][ 62]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:057][ 63]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:074][ 64]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:090][ 65]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:106][ 66]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:122][ 67]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:138][ 68]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:154][ 69]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:170][ 70]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:186][ 71]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:203][ 72]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:218][ 73]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:235][ 74]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:251][ 75]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:268][ 76]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:283][ 77]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:300][ 78]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:316][ 79]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:332][ 80]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:348][ 81]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:364][ 82]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:380][ 83]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:396][ 84]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:412][ 85]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:428][ 86]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:445][ 87]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:461][ 88]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:477][ 89]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:493][ 90]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:510][ 91]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:526][ 92]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:541][ 93]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:557][ 94]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:573][ 95]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:589][ 96]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:606][ 97]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:622][ 98]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:639][ 99]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:654][100]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:671][101]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:687][102]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:703][103]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:719][104]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:735][105]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:751][106]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:767][107]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:784][108]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:800][109]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:817][110]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:832][111]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:848][112]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:864][113]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:880][114]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:896][115]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:912][116]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:929][117]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:945][118]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:961][119]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:978][120]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.17:993][121]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:010][122]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:025][123]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:042][124]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:058][125]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:073][126]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:090][127]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:106][128]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:122][129]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:139][130]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:155][131]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:170][132]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:186][133]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:203][134]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:218][135]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:235][136]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:251][137]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:267][138]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:284][139]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:300][140]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:316][141]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:331][142]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:347][143]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:363][144]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:380][145]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:396][146]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:412][147]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:429][148]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:445][149]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:461][150]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:477][151]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:494][152]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:510][153]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:526][154]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:542][155]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:558][156]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:574][157]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:591][158]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:606][159]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:622][160]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:638][161]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:655][162]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:671][163]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:687][164]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:703][165]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:719][166]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:735][167]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:751][168]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:767][169]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:783][170]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:800][171]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:815][172]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:832][173]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:848][174]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:864][175]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:880][176]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:896][177]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:912][178]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:929][179]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:945][180]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:962][181]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:977][182]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.18:993][183]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:009][184]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:025][185]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:042][186]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:058][187]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:074][188]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:090][189]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:106][190]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:121][191]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:138][192]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:154][193]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:170][194]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:187][195]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.19:207][196]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.07.19-12.35.19:208][196]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.26:657][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-12.35.31:979][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-12.35.31:980][988]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.31:996][989]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:012][990]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:029][991]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:045][992]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:061][993]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:077][994]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:093][995]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:109][996]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:126][997]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:142][998]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:158][999]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:174][  0]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:190][  1]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:206][  2]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:222][  3]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:238][  4]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:255][  5]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:270][  6]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:288][  7]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:302][  8]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:319][  9]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:335][ 10]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:350][ 11]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:367][ 12]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:383][ 13]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:400][ 14]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:416][ 15]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:432][ 16]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:447][ 17]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:464][ 18]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:480][ 19]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:496][ 20]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:513][ 21]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:528][ 22]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:545][ 23]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:561][ 24]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:577][ 25]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:592][ 26]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:610][ 27]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:625][ 28]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:641][ 29]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:657][ 30]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:674][ 31]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:689][ 32]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:707][ 33]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:722][ 34]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:738][ 35]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:754][ 36]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:770][ 37]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:787][ 38]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:803][ 39]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:820][ 40]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:835][ 41]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:851][ 42]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:867][ 43]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:883][ 44]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:899][ 45]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:916][ 46]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:932][ 47]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:948][ 48]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:964][ 49]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:980][ 50]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.32:996][ 51]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:012][ 52]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:028][ 53]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:045][ 54]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:061][ 55]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:077][ 56]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:093][ 57]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:109][ 58]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:125][ 59]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:142][ 60]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:158][ 61]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:174][ 62]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:190][ 63]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:206][ 64]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:222][ 65]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:238][ 66]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:254][ 67]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:271][ 68]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:288][ 69]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:303][ 70]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:319][ 71]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:335][ 72]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:351][ 73]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:368][ 74]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:384][ 75]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:400][ 76]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:416][ 77]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:432][ 78]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:448][ 79]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:464][ 80]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:480][ 81]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:496][ 82]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:512][ 83]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:528][ 84]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:545][ 85]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:561][ 86]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:576][ 87]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:593][ 88]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:609][ 89]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:625][ 90]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:642][ 91]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:657][ 92]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:674][ 93]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:692][ 94]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:707][ 95]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:723][ 96]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:739][ 97]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:755][ 98]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:771][ 99]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:787][100]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:803][101]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:819][102]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:835][103]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:851][104]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:868][105]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:884][106]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:900][107]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:916][108]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:932][109]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:947][110]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:964][111]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:980][112]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.33:997][113]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:012][114]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:029][115]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:045][116]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:061][117]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:077][118]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:094][119]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:110][120]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:127][121]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:142][122]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:158][123]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:174][124]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:191][125]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:206][126]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:222][127]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:238][128]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:255][129]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:271][130]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:287][131]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:369][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-12.35.34:369][132]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:371][133]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:388][134]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:415][135]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:455][136]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:496][137]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:526][138]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:542][139]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:559][140]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:575][141]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:591][142]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:607][143]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:623][144]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:639][145]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:655][146]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:671][147]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:687][148]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:704][149]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:720][150]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:736][151]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:752][152]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:767][153]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:784][154]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:800][155]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:816][156]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:832][157]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:849][158]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:865][159]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:881][160]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:896][161]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:913][162]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:930][163]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:945][164]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:961][165]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:978][166]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.34:993][167]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:010][168]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:026][169]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:043][170]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:059][171]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:074][172]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:090][173]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:107][174]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:123][175]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:139][176]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:156][177]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:171][178]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:187][179]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:204][180]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:220][181]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:235][182]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:252][183]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:269][184]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:284][185]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:301][186]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:316][187]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:332][188]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:348][189]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:365][190]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.35:382][191]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.07.19-12.35.35:382][191]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.07.19-12.35.36:994][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-12.35.46:463][878]Closing by request
+[2019.07.19-12.35.46:463][878]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.07.19-12.35.46:851][879]LogSlate: Window 'MazeMadness (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.07.19-12.35.46:853][879]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.19-12.35.46:879][879]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.19-12.35.46:884][879]LogExit: Preparing to exit.
+[2019.07.19-12.35.46:884][879]LogMoviePlayer: Shutting down movie player
+[2019.07.19-12.35.47:347][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-12.35.47:646][879]LogExit: Game engine shut down
+[2019.07.19-12.35.47:793][879]LogExit: Object subsystem successfully closed.
+[2019.07.19-12.35.47:822][879]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.07.19-12.35.47:828][879]LogD3D11RHI: Shutdown
+[2019.07.19-12.35.47:828][879]LogD3D11RHI: CleanupD3DDevice
+[2019.07.19-12.35.47:828][879]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.19-12.35.47:828][879]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.19-12.35.47:828][879]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.19-12.35.47:828][879]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.19-12.35.47:828][879]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.19-12.35.47:828][879]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.19-12.35.48:057][879]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.07.19-12.35.48:072][879]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (398)
+[2019.07.19-12.35.48:072][879]LogModuleManager: Shutting down and abandoning module SequenceRecorder (396)
+[2019.07.19-12.35.48:072][879]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module AutomationWorker (392)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module Voice (390)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module AIModule (388)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module GameplayDebugger (387)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module AITestSuite (385)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module NavigationSystem (383)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module OculusMR (380)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (378)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (376)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module WebMMedia (374)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (372)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (370)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (368)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (366)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (364)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (362)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module CharacterAI (360)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module SessionServices (358)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (356)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module LiveCoding (354)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module LevelSequence (352)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (350)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module MovieScene (348)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (346)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module PortalServices (344)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module PortalRpc (342)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module MessagingRpc (340)
+[2019.07.19-12.35.48:073][879]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (338)
+[2019.07.19-12.35.48:076][879]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (330)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module OculusInput (328)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (326)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module EditableMesh (324)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module AudioCapture (318)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (312)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (310)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module MediaCompositing (308)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module LinearTimecode (306)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module ImgMedia (304)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (302)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (300)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (298)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module HTML5Networking (296)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (294)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (293)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module GeometryCache (290)
+[2019.07.19-12.35.48:193][879]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (289)
+[2019.07.19-12.35.48:194][879]LogModuleManager: Shutting down and abandoning module BackChannel (286)
+[2019.07.19-12.35.48:194][879]LogModuleManager: Shutting down and abandoning module AppleVision (284)
+[2019.07.19-12.35.48:194][879]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (282)
+[2019.07.19-12.35.48:194][879]LogModuleManager: Shutting down and abandoning module AppleImageUtils (280)
+[2019.07.19-12.35.48:194][879]LogModuleManager: Shutting down and abandoning module VariantManagerContent (278)
+[2019.07.19-12.35.48:194][879]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (276)
+[2019.07.19-12.35.48:194][879]LogModuleManager: Shutting down and abandoning module CryptoKeys (274)
+[2019.07.19-12.35.48:194][879]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (272)
+[2019.07.19-12.35.48:194][879]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2019.07.19-12.35.48:194][879]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (270)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (266)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module UObjectPlugin (264)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (262)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (260)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module SourceControl (259)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (256)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (254)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module SignificanceManager (252)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (250)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (248)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module PhysXVehicles (246)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (244)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module ActorSequence (242)
+[2019.07.19-12.35.48:195][879]LogModuleManager: Shutting down and abandoning module UdpMessaging (240)
+[2019.07.19-12.35.48:296][879]LogModuleManager: Shutting down and abandoning module TcpMessaging (238)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (236)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (234)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (232)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (230)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module MagicLeapController (228)
+[2019.07.19-12.35.48:397][879]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module MagicLeapAR (226)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module AugmentedReality (225)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (222)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module FacialAnimation (220)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module DataValidation (218)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (216)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module TreeMap (215)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module AnimationSharing (212)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (210)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module AISupportModule (208)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module Paper2D (206)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (204)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (202)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module PacketHandler (200)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (198)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (196)
+[2019.07.19-12.35.48:397][879]LogModuleManager: Shutting down and abandoning module MediaAssets (194)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module Overlay (192)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module OverlayEditor (191)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module VREditor (188)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module StringTableEditor (186)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (184)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (182)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module FunctionalTesting (180)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (178)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (177)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module UMG (174)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module UMGEditor (173)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module Sequencer (172)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module MessageLog (169)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module SlateReflector (164)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module Slate (162)
+[2019.07.19-12.35.48:398][879]LogModuleManager: Shutting down and abandoning module EditorStyle (160)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module UnrealEd (158)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module MRMesh (156)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module Messaging (154)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (152)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (150)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module XAudio2 (148)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module Networking (146)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module Core (144)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module KismetCompiler (142)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module MeshUtilities (140)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (139)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (138)
+[2019.07.19-12.35.48:400][879]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (137)
+[2019.07.19-12.35.48:401][879]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (135)
+[2019.07.19-12.35.48:401][879]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (133)
+[2019.07.19-12.35.48:401][879]LogModuleManager: Shutting down and abandoning module MaterialBaking (129)
+[2019.07.19-12.35.48:401][879]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (124)
+[2019.07.19-12.35.48:401][879]LogModuleManager: Shutting down and abandoning module DerivedDataCache (122)
+[2019.07.19-12.35.48:888][879]LogDerivedDataCache: Shutdown
+[2019.07.19-12.35.48:888][879]LogModuleManager: Shutting down and abandoning module XGEController (120)
+[2019.07.19-12.35.48:888][879]LogModuleManager: Shutting down and abandoning module TargetPlatform (118)
+[2019.07.19-12.35.48:888][879]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (117)
+[2019.07.19-12.35.48:888][879]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (115)
+[2019.07.19-12.35.48:888][879]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (113)
+[2019.07.19-12.35.48:888][879]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (111)
+[2019.07.19-12.35.48:888][879]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (109)
+[2019.07.19-12.35.48:888][879]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (107)
+[2019.07.19-12.35.48:888][879]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (105)
+[2019.07.19-12.35.48:888][879]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (103)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (101)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (99)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module ImageWrapper (98)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (95)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (93)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (91)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (89)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (87)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (85)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (83)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (81)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module InputCore (78)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module Settings (76)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.07.19-12.35.48:889][879]LogHMD: Freeing OpenVRDLLHandle.
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.07.19-12.35.48:889][879]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.07.19-12.35.48:890][879]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.07.19-12.35.48:918][879]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.07.19-12.35.48:934][879]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.07.19-12.35.48:935][879]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.07.19-12.35.48:939][879]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.07.19-12.35.48:946][879]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.07.19-12.35.48:946][879]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.07.19-12.35.48:948][879]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.07.19-12.35.48:966][879]LogExit: Exiting.
+[2019.07.19-12.35.48:971][879]Log file closed, 07/19/19 08:35:48
