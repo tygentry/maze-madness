@@ -6,16 +6,30 @@ The basis of the game is simple, navigate the maze and find the 3 keys to comple
 # Contributors:
 - Tyler Gentry - Programming
 - Thomas Charlton - Level Design
-- Kermit Barrette - 3D Modeling
+- Kermit Barrette - 3D Modeling - https://www.artstation.com/kermit3d
 - Tyler "Duck" Howell - Textures
 
 # Game Images: 
 ![Start Screen](/GameplayImages/startScreen.png)
 ![Story Introduction](/GameplayImages/intro.png)
+
+Entrance to Hedge Maze:
 ![Maze Entrance](/GameplayImages/entrance.png)
+
+Hedge Maze, Top-Down:
 ![Maze 1 Top-View](/GameplayImages/maze1.png)
+
+Brick Maze, Top-Down:
 ![Maze 2 Top-View](/GameplayImages/maze2.png)
+
+Cave Maze, Top-Down:
 ![Maze 3 Top-View](/GameplayImages/maze3.png)
+
+Key within Hedge Maze:
 ![Key within Maze 1](/GameplayImages/key.png)
+
+Portal back to Spawn after collecting Key
 ![Portal to Spawn](/GameplayImages/portal.png)
+
+Once you've placed all the keys, You Win!
 ![All keys placed on pedestals, Game Won](/GameplayImages/gameWin.png)
