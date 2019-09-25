@@ -11,10 +11,12 @@ The basis of the game is simple, navigate the maze and find the 3 keys to comple
 
 # Want to Play?
 https://drive.google.com/drive/folders/1YxX7UHIsHT-kw0xsKoeJ-1fWmOQFcNAi?usp=sharing
+
 Contains:
 - Windows 1.0 Build
 - Windows 1.1 Build
 - Linux 1.0 Build
+
 Download the entire folder for whichever version you would like, then run the executable file.
 
 # Game Images: 
